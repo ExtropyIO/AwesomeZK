@@ -16,9 +16,9 @@ Table of Contents
 
 ## Maths
 
-Moonmath [Manual](https://leastauthority.com/community-matters/moonmath-manual/)
+[Moonmath Manual](https://leastauthority.com/community-matters/moonmath-manual/)
 
-Number [Theory] (https://explained-from-first-principles.com/number-theory/)
+[Number Theory] (https://explained-from-first-principles.com/number-theory/)
 
 ### Elliptic Curves
 [Visualisation](https://curves.xargs.org/?source=post_page-----ee00d6accb4d--------------------------------#finite-field-math) 
@@ -36,7 +36,11 @@ Number [Theory] (https://explained-from-first-principles.com/number-theory/)
 
 
 ## General ZKP Theory
-The Thaler [book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
+[The Thaler book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
+
+[ZK Jargon Disclaimer](https://nmohnblatt.github.io/zk-jargon-decoder/foreword.html)
+
+
 
 ## SNARK Theory
 [How zkSNARKS Work](https://arxiv.org/pdf/1906.07221.pdf)
@@ -49,11 +53,23 @@ The Thaler [book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
 
 [R1CS and QAP](https://risencrypto.github.io/R1CSQAP/)
 
+[Collaborative SNARKS project](https://github.com/alex-ozdemir/collaborative-zksnark)
+
+[Collaborative SNARKS](https://morgana-proofs.github.io/mpc-maci/master/chapter-2-preliminaries/collab.html)
+
+[Experimenting with Collaborative SNARKS](https://eprint.iacr.org/2021/1530)
+
+[Using GKR in SNARKS](https://ethresear.ch/t/using-gkr-inside-a-snark-to-reduce-the-cost-of-hash-verification-down-to-3-constraints/7550)
 
 ## STARK Theory
 
 ## Fiat Shamir
 [Security](https://eprint.iacr.org/2023/1071)
+
+## Lookup Schemes
+
+[A History](https://github.com/ingonyama-zk/papers/blob/main/lookups.pdf)
+
 
 
 ## zkML Theory
@@ -63,9 +79,16 @@ The Thaler [book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
 
 [PLONK Algorithm](https://trapdoortech.medium.com/zkp-plonk-algorithm-introduction-834556a32a)
 
+[FFTs in PLONK](https://twitter.com/rishotics/status/1661276315037622273)
+
+
+## Mina
+[Mina Book](https://o1-labs.github.io/proof-systems/)
 
 ## Folding Schemes
 [Protogalaxy](https://eprint.iacr.org/2023/1106)
+
+[SuperNova compared to Pickles and Kimchi](https://twitter.com/bkase_/status/1653419549549809664)
 
 
 
@@ -99,3 +122,5 @@ Starknet [podcast](https://starknet.io/what-is-starknet/stark-struck-podcast/)
 ZK Hack and ZK Study Club [Videos](https://www.youtube.com/@zeroknowledgefm)
 
 ZK Whiteboard [sessions](https://zkhack.dev/whiteboard/)  
+
+[Risc Zero Study Club](https://www.youtube.com/playlist?list=PLcPzhUaCxlCjdhONxEYZ1dgKjZh3ZvPtl)
