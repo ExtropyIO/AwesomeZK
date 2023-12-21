@@ -3,8 +3,15 @@ A curated list of ZK and Maths resources
 
 Table of Contents
 =================
-
-
+* [Maths](#Maths)
+    * [Elliptic Curves](#elliptic-curves)
+    * [Polynomials](#polynomials)
+* [Cryptography](#cryptography)
+* [General ZKP Theory](#general-zkp-theory)
+* [SNARK Theory](#snark-theory)
+* [STARK Theory](#stark-theory)
+* [zkML Theory](#zkml-theory)
+    
 
 
 ## Maths
