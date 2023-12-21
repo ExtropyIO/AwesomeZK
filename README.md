@@ -40,9 +40,13 @@ The Thaler [book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
 
 ## SNARK Theory
 [How zkSNARKS Work](https://arxiv.org/pdf/1906.07221.pdf)
+
 [Lets Disect a SNARK -series](https://medium.com/@yujiangtham/lets-dissect-a-zksnark-part-1-a82fc092f58a)
+
 [Lasso and Jolt](https://a16zcrypto.com/posts/article/introducing-lasso-and-jolt/)
+
 [Misconceptions about SNARKS](https://a16zcrypto.com/posts/article/17-misconceptions-about-snarks/)
+
 [R1CS and QAP](https://risencrypto.github.io/R1CSQAP/)
 
 
@@ -56,6 +60,7 @@ The Thaler [book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
 
 ## PLONK
 [PLONK By Hand](https://research.metastate.dev/plonk-by-hand-part-1/)
+
 [PLONK Algorithm](https://trapdoortech.medium.com/zkp-plonk-algorithm-introduction-834556a32a)
 
 
@@ -78,6 +83,7 @@ The Thaler [book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
 
 ## zkML
 [Awesome zkML](https://github.com/worldcoin/awesome-zkml)
+
 [Research from PSE Team](https://hackmd.io/@cathie/zkml-research)
 
 ## Courses
