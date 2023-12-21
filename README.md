@@ -10,12 +10,27 @@ Table of Contents
 ## Maths
 
 Moonmath [Manual](https://leastauthority.com/community-matters/moonmath-manual/)
+Number [Theory] (https://explained-from-first-principles.com/number-theory/)
+
+### Elliptic Curves
+[Visualisation](https://curves.xargs.org/?source=post_page-----ee00d6accb4d--------------------------------#finite-field-math) 
+[Cheat Sheet](https://hackmd.io/@timofey/rJ8HP8Yaj)
+[Stanford Course Notes](https://crypto.stanford.edu/pbc/notes/ep/)
+
+### Polynomials
+[Understanding Polynomials](https://www.zkcamp.xyz/blog/you-cant-understand-zkps-without-understanding-polynomials)
+
+## Cryptography
+
+[Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 
 
 ## General ZKP Theory
 The Thaler [book](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html)
 
 ## SNARK Theory
+[How zkSNARKS Work](https://arxiv.org/pdf/1906.07221.pdf)
+
 
 ## STARK Theory
 
