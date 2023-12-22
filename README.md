@@ -18,7 +18,7 @@ Table of Contents
 
 [Moonmath Manual](https://leastauthority.com/community-matters/moonmath-manual/)
 
-[Number Theory] (https://explained-from-first-principles.com/number-theory/)
+[Number Theory](https://explained-from-first-principles.com/number-theory/)
 
 ### Elliptic Curves
 [Visualisation](https://curves.xargs.org/?source=post_page-----ee00d6accb4d--------------------------------#finite-field-math) 
@@ -62,6 +62,18 @@ Table of Contents
 [Using GKR in SNARKS](https://ethresear.ch/t/using-gkr-inside-a-snark-to-reduce-the-cost-of-hash-verification-down-to-3-constraints/7550)
 
 ## STARK Theory
+
+[Starkware series explaining STARKS](https://medium.com/starkware/tagged/stark-math)
+
+[STARK 101 Playlist](https://www.youtube.com/playlist?list=PLcIyXLwiPilWoXrDbmwHPxaH8Gxk5I_fG)
+
+[Starknet Workshops](https://www.youtube.com/playlist?list=PLcIyXLwiPilV5RBZj43AX1FY4FJMWHFTY)
+
+Introductory STARK series
+    - [Part 1](https://zeroknowledgedefi.com/2021/12/13/starks-i-polynomials-everywhere/)
+
+    - [Part 2](https://zeroknowledgedefi.com/2021/12/26/starks-ii-is-that-a-polynomial/)
+
 
 ## Fiat Shamir
 [Security](https://eprint.iacr.org/2023/1071)
