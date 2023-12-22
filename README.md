@@ -63,6 +63,17 @@ Table of Contents
 
 ## STARK Theory
 
+[Starkware series explaining STARKS](https://medium.com/starkware/tagged/stark-math)
+
+[STARK 101 Playlist](https://www.youtube.com/playlist?list=PLcIyXLwiPilWoXrDbmwHPxaH8Gxk5I_fG)
+
+[Starknet Workshops](https://www.youtube.com/playlist?list=PLcIyXLwiPilV5RBZj43AX1FY4FJMWHFTY)
+
+Introductory STARK series
+    - [Part 1](https://zeroknowledgedefi.com/2021/12/13/starks-i-polynomials-everywhere/)
+    - [Part 2](https://zeroknowledgedefi.com/2021/12/26/starks-ii-is-that-a-polynomial/)
+    
+
 ## Fiat Shamir
 [Security](https://eprint.iacr.org/2023/1071)
 
