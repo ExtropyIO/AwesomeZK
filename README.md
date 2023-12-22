@@ -18,7 +18,7 @@ Table of Contents
 
 [Moonmath Manual](https://leastauthority.com/community-matters/moonmath-manual/)
 
-[Number Theory] (https://explained-from-first-principles.com/number-theory/)
+[Number Theory](https://explained-from-first-principles.com/number-theory/)
 
 ### Elliptic Curves
 [Visualisation](https://curves.xargs.org/?source=post_page-----ee00d6accb4d--------------------------------#finite-field-math) 
@@ -71,8 +71,9 @@ Table of Contents
 
 Introductory STARK series
     - [Part 1](https://zeroknowledgedefi.com/2021/12/13/starks-i-polynomials-everywhere/)
+
     - [Part 2](https://zeroknowledgedefi.com/2021/12/26/starks-ii-is-that-a-polynomial/)
-    
+
 
 ## Fiat Shamir
 [Security](https://eprint.iacr.org/2023/1071)
