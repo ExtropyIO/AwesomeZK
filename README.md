@@ -70,6 +70,7 @@ Table of Contents
 [Starknet Workshops](https://www.youtube.com/playlist?list=PLcIyXLwiPilV5RBZj43AX1FY4FJMWHFTY)
 
 Introductory STARK series
+
     - [Part 1](https://zeroknowledgedefi.com/2021/12/13/starks-i-polynomials-everywhere/)
 
     - [Part 2](https://zeroknowledgedefi.com/2021/12/26/starks-ii-is-that-a-polynomial/)
