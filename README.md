@@ -32,6 +32,7 @@ Table of Contents
 
 [Polynomial Techniques](https://www.youtube.com/watch?v=OqNNDjnCC6c)
 
+[Why Polynomials](https://www.youtube.com/watch?v=iAaSQfZ-2AM)
 
 ## Cryptography
 
@@ -54,6 +55,8 @@ Table of Contents
 [FRI Study Club](https://drive.google.com/file/d/1TuufbM8py2mGDkjMUg5FWZzw8VqNri4O/view)
 
 [DEEP FRI](https://arxiv.org/abs/1903.12243)
+
+[DEEP FRI STARK@Home](https://www.youtube.com/watch?v=CBw5d520vqk)
 
 
 ## SNARK Theory
@@ -79,9 +82,13 @@ Table of Contents
 
 [Lambda Works library](https://blog.lambdaclass.com/lambdaworks-or-how-we-decided-to-created-our-zksnarks-library-and-a-stark-prover/)
 
-
+[Lambda Works - SNARK Arithmetisation](https://blog.lambdaclass.com/arithmetization-schemes-for-zk-snarks/)
 
 ## STARK Theory
+
+[STARK white paper](https://eprint.iacr.org/2018/046.pdf)
+
+[STARK introduction](https://www.youtube.com/watch?v=1KSwVIZ82hs)
 
 [Starkware series explaining STARKS](https://medium.com/starkware/tagged/stark-math)
 
@@ -106,6 +113,7 @@ Introductory STARK series
 
 [Anatomy of a STARK Series](https://aszepieniec.github.io/stark-anatomy/)
 
+[ethSTARK](https://eprint.iacr.org/2021/582.pdf)
 
 
 ## Fiat Shamir
@@ -119,6 +127,10 @@ Introductory STARK series
 
 [Updates to Lasso and Jolt](https://a16zcrypto.com/posts/article/boosting-lassojolt/)
 
+[Recent Updates](https://www.youtube.com/watch?v=bPXPIGBo0G0)
+
+## Recursion
+[Recursion with STARKS](https://twitter.com/bobbinth/status/1608690628652838915)
 
 ## zkML Theory
 
@@ -155,10 +167,15 @@ Introductory STARK series
 
 [Miden VM](https://0xpolygonmiden.github.io/miden-vm/)
 
-[Risc Zero](https://dev.risczero.com/api)
+[OlaVM](https://github.com/Sin7Y/olavm)
 
 
 #### Risc Zero
+
+[Risc Zero](https://dev.risczero.com/api)
+
+[Risc Zero Paper](https://dev.risczero.com/proof-system-in-detail.pdf)
+
 
 ## zkML
 [Awesome zkML](https://github.com/worldcoin/awesome-zkml)
