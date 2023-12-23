@@ -30,9 +30,18 @@ Table of Contents
 ### Polynomials
 [Understanding Polynomials](https://www.zkcamp.xyz/blog/you-cant-understand-zkps-without-understanding-polynomials)
 
+[Polynomial Techniques](https://www.youtube.com/watch?v=OqNNDjnCC6c)
+
+[Why Polynomials](https://www.youtube.com/watch?v=iAaSQfZ-2AM)
+
 ## Cryptography
 
 [Practical Cryptography for Developers](https://cryptobook.nakov.com/)
+
+
+## Formal Verification
+
+[Horus](https://medium.com/nethermind-eth/introduction-to-horus-part-1-fbc16af3ba67)
 
 
 ## General ZKP Theory
@@ -40,6 +49,14 @@ Table of Contents
 
 [ZK Jargon Disclaimer](https://nmohnblatt.github.io/zk-jargon-decoder/foreword.html)
 
+
+## Polynomial Commitment Schemes
+
+[FRI Study Club](https://drive.google.com/file/d/1TuufbM8py2mGDkjMUg5FWZzw8VqNri4O/view)
+
+[DEEP FRI](https://arxiv.org/abs/1903.12243)
+
+[DEEP FRI STARK@Home](https://www.youtube.com/watch?v=CBw5d520vqk)
 
 
 ## SNARK Theory
@@ -61,7 +78,17 @@ Table of Contents
 
 [Using GKR in SNARKS](https://ethresear.ch/t/using-gkr-inside-a-snark-to-reduce-the-cost-of-hash-verification-down-to-3-constraints/7550)
 
+[Vortex - Lattice based SNARK](https://eprint.iacr.org/2022/1633)
+
+[Lambda Works library](https://blog.lambdaclass.com/lambdaworks-or-how-we-decided-to-created-our-zksnarks-library-and-a-stark-prover/)
+
+[Lambda Works - SNARK Arithmetisation](https://blog.lambdaclass.com/arithmetization-schemes-for-zk-snarks/)
+
 ## STARK Theory
+
+[STARK white paper](https://eprint.iacr.org/2018/046.pdf)
+
+[STARK introduction](https://www.youtube.com/watch?v=1KSwVIZ82hs)
 
 [Starkware series explaining STARKS](https://medium.com/starkware/tagged/stark-math)
 
@@ -70,9 +97,23 @@ Table of Contents
 [Starknet Workshops](https://www.youtube.com/playlist?list=PLcIyXLwiPilV5RBZj43AX1FY4FJMWHFTY)
 
 Introductory STARK series
+
     - [Part 1](https://zeroknowledgedefi.com/2021/12/13/starks-i-polynomials-everywhere/)
 
     - [Part 2](https://zeroknowledgedefi.com/2021/12/26/starks-ii-is-that-a-polynomial/)
+
+
+[STARKS by hand](https://dev.risczero.com/proof-system/stark-by-hand)
+
+[Recursive STARKS](https://medium.com/starkware/recursive-starks-78f8dd401025)
+
+[Arithmetisation in STARKS](https://threesigma.xyz/blog/an-introduction-to-air)
+
+[Periodic constraints](https://blog.lambdaclass.com/periodic-constraints-and-recursion-in-zk-starks/)
+
+[Anatomy of a STARK Series](https://aszepieniec.github.io/stark-anatomy/)
+
+[ethSTARK](https://eprint.iacr.org/2021/582.pdf)
 
 
 ## Fiat Shamir
@@ -82,7 +123,14 @@ Introductory STARK series
 
 [A History](https://github.com/ingonyama-zk/papers/blob/main/lookups.pdf)
 
+[Lasso and Jolt](https://a16zcrypto.com/posts/article/introducing-lasso-and-jolt/)
 
+[Updates to Lasso and Jolt](https://a16zcrypto.com/posts/article/boosting-lassojolt/)
+
+[Recent Updates](https://www.youtube.com/watch?v=bPXPIGBo0G0)
+
+## Recursion
+[Recursion with STARKS](https://twitter.com/bobbinth/status/1608690628652838915)
 
 ## zkML Theory
 
@@ -93,6 +141,9 @@ Introductory STARK series
 
 [FFTs in PLONK](https://twitter.com/rishotics/status/1661276315037622273)
 
+
+## Halo and Halo2
+[Circuits in Halo2](https://jtriley.substack.com/p/constructing-zk-snark-circuits)
 
 ## Mina
 [Mina Book](https://o1-labs.github.io/proof-systems/)
@@ -114,7 +165,17 @@ Introductory STARK series
 
 ### zkVM
 
+[Miden VM](https://0xpolygonmiden.github.io/miden-vm/)
+
+[OlaVM](https://github.com/Sin7Y/olavm)
+
+
 #### Risc Zero
+
+[Risc Zero](https://dev.risczero.com/api)
+
+[Risc Zero Paper](https://dev.risczero.com/proof-system-in-detail.pdf)
+
 
 ## zkML
 [Awesome zkML](https://github.com/worldcoin/awesome-zkml)
